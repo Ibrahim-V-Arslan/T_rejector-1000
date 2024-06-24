@@ -1,4 +1,4 @@
-# tRejector-1000
+# T_rejector-1000
 **A Very Simple Neural Network to classify mouse trajectory data**
 
 ## Trajectory Rejector:
