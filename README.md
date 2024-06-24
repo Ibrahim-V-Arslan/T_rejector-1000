@@ -2,7 +2,9 @@
 **A Very Simple Neural Network to classify mouse trajectory data**
 
 ## Trajectory Rejector:
-From a separate project I manually labeled 50k mouse trajectories as good or bad.
+From a separate project I manually labeled 50k mouse trajectories as good or bad. Using this data
+I quickly created a simple classifier to detect good or bad trials.
+*(never been tested with external data)*
 
 ### Good Example:
 ![image](https://github.com/Ibrahim-V-Arslan/T_rejector-1000/assets/54143433/e0e6101d-9ffa-43f9-bd83-0ce35e536619)
