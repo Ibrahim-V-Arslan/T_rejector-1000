@@ -12,7 +12,9 @@ From a separate project I manually labeled 50k mouse trajectories as good or bad
 
 ### Models:
 **NN_base_model.hd5**: 91.7% Validation Accuracy
+
 **NN_advanced_model.hd5**: 92.1% Validation Accuracy
+
 **NN_power_model.hd5**: 92.3% Validation Accuracy
 
 
@@ -22,5 +24,7 @@ From a separate project I manually labeled 50k mouse trajectories as good or bad
    a. if another screen is used coordinates would need to be converted to be in line with the above
 3. Trajectories (almost) always have a starting point of y = -450, and  x = 0.
 5. Trajectories end when they touch either one of the response boxes
+   
    a. Red: y >= 390 and x >= 810
+   
    b. Blue: y >= 390 and x <= -810:
