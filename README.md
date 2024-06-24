@@ -23,7 +23,9 @@ I quickly created a simple classifier to detect good or bad trials.
 ## Important Information:
 
 1. trajectories are screen/pixel specific which was 1920*1080px
+   
    a. if another screen is used coordinates would need to be converted to be in line with the above
+   
 3. Trajectories (almost) always have a starting point of y = -450, and  x = 0.
 5. Trajectories end when they touch either one of the response boxes
    
