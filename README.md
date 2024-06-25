@@ -32,3 +32,7 @@ I quickly created a simple classifier to detect good or bad trials.
    a. Red: y >= 390 and x >= 810
    
    b. Blue: y >= 390 and x <= -810:
+
+### To-do:
+- [ ] making it compatible with various screen size & ratio via transformation.
+- [ ] somehow making the net to be compatible with different response box locations.
