@@ -12,13 +12,6 @@ I quickly created a simple classifier to detect good or bad trials.
 ### Bad Example:
 ![image](https://github.com/Ibrahim-V-Arslan/T_rejector-1000/assets/54143433/b0edb5f9-de38-4096-9994-1ade6f746dc4)
 
-### Models:
-**NN_base_model.hd5**: 91.7% Validation Accuracy
-
-**NN_advanced_model.hd5**: 92.1% Validation Accuracy
-
-**NN_power_model.hd5**: 92.3% Validation Accuracy
-
 
 ## Important Information:
 
